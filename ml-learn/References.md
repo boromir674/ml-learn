@@ -1,0 +1,2 @@
+- [Git CLI](https://git-scm.com/downloads)
+- [Git for Windows](https://gitforwindows.org/)

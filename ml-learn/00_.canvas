@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"94d41d2eee4f1033","type":"file","file":"Guides.md","x":-240,"y":-520,"width":400,"height":480},
+		{"id":"7d178bd12674fff2","type":"file","file":"Explanations.md","x":-780,"y":100,"width":400,"height":220},
+		{"id":"f33d79d2ef421056","type":"file","file":"References.md","x":-240,"y":100,"width":400,"height":220},
+		{"id":"071981cf73084d0b","type":"file","file":"Tutorials.md","x":-820,"y":-520,"width":400,"height":480}
+	],
+	"edges":[
+		{"id":"1c1a5ff3be4efc5b","fromNode":"071981cf73084d0b","fromSide":"right","toNode":"94d41d2eee4f1033","toSide":"left"},
+		{"id":"b3b2446fa3bc09ac","fromNode":"94d41d2eee4f1033","fromSide":"bottom","toNode":"f33d79d2ef421056","toSide":"top"},
+		{"id":"0cb8f1c6dde57e4d","fromNode":"f33d79d2ef421056","fromSide":"left","toNode":"7d178bd12674fff2","toSide":"right"}
+	]
+}
